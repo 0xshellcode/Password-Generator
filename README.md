@@ -1,2 +1,2 @@
 # Password-Generator
-Just another password generator in javascript.
+Just another password generator.
